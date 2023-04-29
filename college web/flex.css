@@ -1,0 +1,12 @@
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    
+}
+.flex2{
+
+padding: 0 40px 40px;
+}
